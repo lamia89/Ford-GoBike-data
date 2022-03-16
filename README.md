@@ -1,0 +1,2 @@
+# Ford-GoBike-data
+In this project part, we will conduct an exploratory data analysis on a dataset of your choice.We'll Use Python data science and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships.Ford GoBike System Data: This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
